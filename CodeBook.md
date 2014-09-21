@@ -26,4 +26,5 @@ It is then merged into the second set of variables:
 - subject_train and subject_test go in Subject.
 
 Subject, Activity and Measurements are merged into tidy1
+
 tidy1 is simplified into tidy2 by taking the mean of the measurements when grouping by subject and activity.
